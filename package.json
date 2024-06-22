@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@fontsource-variable/manrope": "^5.0.20",
     "@tailus/themer": "^0.0.5",
     "@tailus/themer-button": "^0.0.7",
     "@tailus/themer-card": "^0.0.1",
